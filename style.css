@@ -141,3 +141,56 @@ button:hover{
     bottom:80px;
     right:180px;
 }
+
+@media (max-width: 768px){
+
+    .login-box{
+        width:90%;
+        padding:30px;
+    }
+
+    .circle1{
+        width:150px;
+        height:150px;
+        top:30px;
+        left:-50px;
+    }
+
+    .circle2{
+        width:120px;
+        height:120px;
+        bottom:30px;
+        right:-30px;
+    }
+}
+
+@media (max-width: 480px){
+
+    .login-box{
+        width:95%;
+        padding:25px;
+    }
+
+    .login-box h1{
+        font-size:28px;
+    }
+
+    .login-box p{
+        font-size:14px;
+    }
+
+    .input-box input{
+        padding:12px 12px 12px 40px;
+        font-size:14px;
+    }
+
+    button{
+        padding:12px;
+        font-size:15px;
+    }
+
+    .circle1,
+    .circle2{
+        display:none;
+    }
+}
