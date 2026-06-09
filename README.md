@@ -1,8 +1,8 @@
-# Login Page
+# Login Page UI
 
 ## 📌 Project Overview
 
-The **Login Page** is a frontend web development project built using **HTML5** and **CSS3**. The objective of this project is to create a visually appealing, responsive, and user-friendly authentication interface while implementing modern UI/UX design principles.
+The **Login Page UI** is a frontend web development project built using **HTML5** and **CSS3**. The objective of this project is to create a visually appealing, responsive, and user-friendly authentication interface while implementing modern UI/UX design principles.
 
 This project demonstrates the practical implementation of responsive web design, Glassmorphism effects, CSS animations, gradient backgrounds, and interactive user interface components.
 
